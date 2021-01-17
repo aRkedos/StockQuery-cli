@@ -1,0 +1,11 @@
+setup.py
+StockQuery.egg-info/PKG-INFO
+StockQuery.egg-info/SOURCES.txt
+StockQuery.egg-info/dependency_links.txt
+StockQuery.egg-info/entry_points.txt
+StockQuery.egg-info/top_level.txt
+stockq/__init__.py
+stockq/cli.py
+stockq/main.py
+stockq/query.py
+stockq/stockquery.py
